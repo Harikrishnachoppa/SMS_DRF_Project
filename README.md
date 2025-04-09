@@ -53,8 +53,9 @@ Follow the steps below to get the project up and running on your local machine:
 
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/student-management-system.git
-cd student-management-system
+git clone https://github.com/Harikrishnachoppa/SMS_DRF_Project.git
+
+cd SMS_DRF_Project
 ```
 
 ### **2. Create a Virtual Environment**
