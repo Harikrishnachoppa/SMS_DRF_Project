@@ -98,17 +98,7 @@ DATABASE_URL=postgres://user:password@localhost:5432/your_db_name
 
 Make sure to configure settings like database, static files, and email backend properly for production.
 
-## **Running the Project with Docker (Optional)**
-If you've Dockerized the project, you can run it as follows:
 
-```bash
-docker-compose up --build
-```
-This will build the Docker image and run the Django application and the PostgreSQL service.
-
-## **Video Links**
-Watch the videos to learn in proper way.
-https://youtu.be/mM6vMMLYJHY
 
 
 ## **Testing**
