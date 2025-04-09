@@ -31,7 +31,6 @@ A comprehensive **Student Management System** built using **Django**, designed t
 - **Frontend**: HTML5, CSS3, JavaScript, Bootstrap (or other UI libraries you used)
 - **Database**: PostgreSQL (or SQLite during development)
 - **Version Control**: Git
-- **Deployment**: Docker (if Dockerized), Nginx, Gunicorn (for production)
 - **Testing**: Django's built-in testing framework
 
 ## **Project Structure**
